@@ -19,3 +19,11 @@ Run from the repository root with `py set1/p1/p1_grade_calculator.py`.
 Run from the repository root with `py set1/p2/p2_main.py`.
 
 ![P2 sample student report](set1/p2/screenshots/p2-report.jpg)
+
+### P3 - Student Record Manager
+
+[Activity folder](set1/p3/) - Add, remove, search, and display student names.
+
+Run from the repository root with `py set1/p3/p3_record_manager.py`.
+
+![P3 student list](set1/p3/screenshots/p3-display.jpg)
