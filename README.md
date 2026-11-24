@@ -27,3 +27,13 @@ Run from the repository root with `py set1/p2/p2_main.py`.
 Run from the repository root with `py set1/p3/p3_record_manager.py`.
 
 ![P3 student list](set1/p3/screenshots/p3-display.jpg)
+
+### P4 - Safe Menu Program
+
+[Activity folder](set1/p4/) - Divides numbers and opens text files with error handling.
+
+Run from the repository root with `py set1/p4/p4_exceptions.py`.
+
+![P4 division result](set1/p4/screenshots/p4-division.jpg)
+
+![P4 text file output](set1/p4/screenshots/p4-open-file.jpg)
